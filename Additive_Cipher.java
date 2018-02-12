@@ -1,3 +1,4 @@
+
 // Assuming  that plaintext consists of lower cases letter and the ciphertext consists of upper case letter.
 
 import java.util.Scanner;
